@@ -8,10 +8,10 @@ namespace FireWall_Reigns
     public class Cartas
     {
         private string fato;
-        private int ptsPriv;
-        private int ptsRecs;
-        private int ptsSegu;
-        private int ptsUser;
+        public int ptsPriv;
+        public int ptsRecs;
+        public int ptsSegu;
+        public int ptsUser;
 
         public Cartas(string acontecimento, int p1, int p2, int p3, int p4)
         {
