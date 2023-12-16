@@ -7,7 +7,7 @@ namespace FireWall_Reigns
 {
     public class Entidades
     {
-        protected int pontuacao;
+        private int pontuacao;
 
         public Entidades(int startPontuacao)
         {
