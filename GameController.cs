@@ -15,6 +15,7 @@ namespace FireWall_Reigns
         {
             this.fase = fase;
             this.gameOver = false;
+            this.diferenca = 0;
         }
 
         public void conferePontuacao(Entidades privacidade, Entidades recursos, Entidades seguranca, Entidades usuarios)
